@@ -1,4 +1,4 @@
-# Analysis of Credit Card Defaults in Taiwan from 2005
+# Analysis of Credit Card Defaults in Taiwan of 2005
 
 ## Repository contains code, original data in excel format, RDS file using cleaned data and plots that were generated using ggplot2
 
